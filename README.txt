@@ -1,0 +1,1 @@
+Repositorio dedicado ao projeto de Engenharia de Software, do Centro de Informática da Univeridade Federal de Pernambuco, no período acadêmico de 2012.2.
